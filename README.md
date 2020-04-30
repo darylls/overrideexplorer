@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Datacom OverrideExplorer v2 and more
+=======
+# Datacom OverrideExplorer v2 nah
+>>>>>>> a18ccfc3b57e00855e3f58fc405b7250985957a4
 Override Explorer for SCOM 2012
 
 This is a tool to use with System Center 2012 Operations Manager.
