@@ -13,3 +13,17 @@ C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012\OverrideExplorer\obj\Debug\Ove
 C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012.3.7.Branch\OverrideExplorer\bin\Debug\OverrideExplorer.exe.config
 C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012.3.7.Branch\OverrideExplorer\obj\Debug\OverrideExplorer.exe
 C:\SkyDrive\Boris_Tools.Work\OverrideExplorer2012.3.7.Branch\OverrideExplorer\obj\Debug\OverrideExplorer.pdb
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\bin\Debug\OverrideExplorer.exe.config
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\bin\Debug\OverrideExplorer.exe
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\bin\Debug\OverrideExplorer.pdb
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.csprojAssemblyReference.cache
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.ConnectionDialog.resources
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.MPBrowserDialog.resources
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.OverrideExplorer.resources
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.OverrideTargetEditor.resources
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.ProgressDialog.resources
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.Properties.Resources.resources
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.csproj.GenerateResource.cache
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.csproj.CoreCompileInputs.cache
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.exe
+C:\Users\darylls\Source\Repos\overrideexplorer\OverrideExplorer\obj\Debug\OverrideExplorer.pdb

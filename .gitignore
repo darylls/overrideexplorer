@@ -30,3 +30,4 @@ _ReSharper*/
 *.suo
 *.cache
 
+/.vs/overrideexplorer/v15/Server/sqlite3/db.lock
